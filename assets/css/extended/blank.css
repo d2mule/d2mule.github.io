@@ -1,4 +1,15 @@
 
+:root {
+  --link-color: #a8e6cf;
+}
+
+.dark {
+  /* 首页的介绍处的链接 */
+  .entry-content {
+    a {
+      color: var(--link-color);
+    }
+  }
 /* medium-zoom 图片放大后的背景样式 */
 .medium-zoom-overlay {
   background: rgba(255, 255, 255, 0.5) !important;
