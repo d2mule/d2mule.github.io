@@ -2,7 +2,10 @@
 date = '2025-03-13T13:03:30+08:00'
 draft = false
 title = 'D2r Items Auction 03 09 2025'
+Categories = ["D2r Items Auction"]
+Tags =["D2r items","auction" ,"bid"]
 +++
+
 ## D2R Items Auction Results - March 9, 2025
 
 **Auction Date:** March 9, 2025
