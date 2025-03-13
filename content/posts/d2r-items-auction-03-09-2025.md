@@ -3,7 +3,7 @@ date = '2025-03-13T13:03:30+08:00'
 draft = false
 title = 'D2r Items Auction 03 09 2025'
 Categories = ["D2r Items Auction"]
-Tags =["D2r items","auction" ,"bid"]
+Tags =["D2r items","auction","bid"]
 +++
 
 ## D2R Items Auction Results - March 9, 2025
@@ -77,7 +77,7 @@ Tags =["D2r items","auction" ,"bid"]
 
 - **Final Price**: ¥50
 
-#### 11. Item: D2R Non Ladder 
+#### 11. Item: D2R Non Ladder Rare Ring
 
 ![image-20250313124158690](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202503131241742.png)
 
