@@ -6,7 +6,7 @@ Categories = ["D2r Items Auction"]
 Tags =["D2r items","auction","bid"]
 +++
 
-## D2R Items Auction Results - March 9, 2025
+## D2r Items Auction Results - March 9, 2025
 
 **Auction Date:** March 9, 2025
 
@@ -14,9 +14,9 @@ Tags =["D2r items","auction","bid"]
 
 ### Item List
 
-#### 1. Item: D2R Non Ladder Crafted Ring
+#### 1. Item: D2r
 
-![image-20250313112038857](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202503131120924.png)
+pic
 
 - **Final Price**: ¥160
 

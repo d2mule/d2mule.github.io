@@ -1,6 +1,6 @@
-baseURL: "https://d2mule.github.io/" # 主站的 URL
+baseURL: "https://blog.d2mule.com/" # 主站的 URL
 title: D2mule's Blog # 站点标题
-copyright: "©2025 [D2mule's Blog](https://d2mule.github.io/)" # 网站的版权声明，通常显示在页脚
+copyright: "©2025 [D2mule's Blog](https://blog.d2mule.com/)" # 网站的版权声明，通常显示在页脚
 theme: PaperMod # 主题
 languageCode: en-us # 语言
 
