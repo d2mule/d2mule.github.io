@@ -1,7 +1,7 @@
 +++
 date = '2025-03-13T13:03:30+08:00'
 draft = false
-title = 'D2r Items Auction 03 09 2025'
+title = 'D2r Items Auction March 09 2025'
 Categories = ["D2r Items Auction"]
 Tags =["D2r items","auction","bid"]
 +++
