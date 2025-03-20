@@ -14,9 +14,9 @@ Tags =["D2r items","auction","bid"]
 
 ### Item List
 
-#### 1. Item: D2r
+#### 1. Item: D2r Non Ladder Crafted Ring
 
-pic
+![image-20250313112038857](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202503131120924.png)
 
 - **Final Price**: ¥160
 
