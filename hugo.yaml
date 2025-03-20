@@ -133,7 +133,7 @@ params:
   #         SiteVerificationTag: "XYZabc"
   services:
     googleAnalytics:
-      id: G-L0QC897D2J
+      id: G-46XR9W52Z2
 
   assets:
     disableHLJS: true
