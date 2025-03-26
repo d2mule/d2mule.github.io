@@ -170,7 +170,7 @@ Tags =["D2r items","auction","bid"]
 
 - **Final Price**: Unsold
 
-## 
+## Notes
 {{< quote "#f0f8ff" "#003366" "#007bff" >}}
 - If an item is sold, the final price is displayed in Chinese Yuan (¥).
 - If an item is unsold, it is marked as "Unsold."
