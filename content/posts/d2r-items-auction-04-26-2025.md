@@ -72,7 +72,7 @@ Tags =["D2r items","auction","bid"]
 
 ![image-20250426135139108](https://raw.githubusercontent.com/cnlinuxcode/typora/master/202504261412888.png)
 
-- **Final Price**: `¥87000`
+- **Final Price**: ¥87000
 
 ## Notes
 {{< quote "#f0f8ff" "#003366" "#007bff" >}}
