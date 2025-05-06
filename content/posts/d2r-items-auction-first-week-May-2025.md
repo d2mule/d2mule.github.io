@@ -1,6 +1,6 @@
 +++
 date = '2025-05-06T15:35:28+08:00'
-draft = true
+draft = false
 title = 'D2r Items Auction Highlights - First Week of May 2025'
 Categories = ["D2r Items Auction"]
 Tags =["D2r items","auction","bid"]
